@@ -6,3 +6,4 @@ This is my practice task with ReactJS. I built mini-twitter clone with the follo
 5) search bar;
 
 ...work in progress...
+Check out the result: https://freak1ngawesome.github.io/mini-twitter
